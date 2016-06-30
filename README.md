@@ -26,3 +26,4 @@ Some fun example from MSFT dataset
 TensorFlow
 =====================
 
+![Image](images/TensorFlow-vs-Theano.png)
